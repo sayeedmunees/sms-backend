@@ -1,7 +1,7 @@
 // import express
 const express = require("express");
-// import userController
 
+// import userController
 const studentController = require("./controller/studentController.js");
 
 // create instance
